@@ -3,7 +3,7 @@
 import "./App.css";
 
 // IMP START - Quick Start
-import { CONNECTOR_EVENTS, IProvider, Web3Auth, WEB3AUTH_NETWORK } from "@web3auth/modal";
+import { AUTH_CONNECTION, CONNECTOR_EVENTS, IProvider, WALLET_CONNECTORS, Web3Auth, WEB3AUTH_NETWORK } from "@web3auth/modal";
 // IMP END - Quick Start
 import { useEffect, useState } from "react";
 
